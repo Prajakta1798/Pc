@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Soil Health Monitor</string>
+    <string name="login">Login</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="add_user">Add User</string>
+    <string name="get_details">Get Details</string>
+    <string-array name="area">
+        <item>Select Area</item>
+        <item>Niphad</item>
+        <item>Sinnar</item>
+        <item>Deola</item>
+    </string-array>
+
+
+    <string-array name="time_interval">
+        <item>Select Time Interval</item>
+        <item>1 day</item>
+        <item>30 day</item>
+    </string-array>
+
+    <string-array name="soil_param">
+        <item>Select Soil Parameter</item>
+        <item>Temperature</item>
+        <item>Ph</item>
+        <item>Moisture</item>
+        <item>Humidity</item>
+    </string-array>
+</resources>

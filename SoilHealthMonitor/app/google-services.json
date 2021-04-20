@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092954276625",
+    "firebase_url": "https://soilhealth-ffffd.firebaseio.com",
+    "project_id": "soilhealth-ffffd",
+    "storage_bucket": "soilhealth-ffffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092954276625:android:90b827b1621519691602b0",
+        "android_client_info": {
+          "package_name": "com.example.soilhealthmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092954276625-su4mvv7dqbtgiciqmp356ghmmb9fcnne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0avPpc4SIW646KnQAgXxjSv4kfSqeDSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092954276625-su4mvv7dqbtgiciqmp356ghmmb9fcnne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
